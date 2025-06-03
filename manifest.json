@@ -9,10 +9,10 @@
     "imageUrl": "https://raw.githubusercontent.com/bvolvy/CustomLogoPlugin/main/static/icon.png",
     "versions": [
       {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "targetAbi": "10.10.0.0",
-        "sourceUrl": "https://github.com/bvolvy/CustomLogoPlugin/archive/refs/tags/v1.0.0.zip",
-        "checksum": "C9406B27180C144D9D3F9EF7D9340666",
+        "sourceUrl": "https://github.com/herodev1337/CustomLogoPlugin/archive/refs/tags/v1.0.0.zip",
+        "checksum": "aa4d7ee59949830373159a08b5655799",
         "timestamp": "2025-04-30T23:00:00Z"
       }
     ]
